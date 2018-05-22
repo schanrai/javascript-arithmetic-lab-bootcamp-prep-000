@@ -34,7 +34,7 @@ return parseInt (n, 10);
 }
 makeInt('0x2328');
 
-function preseveDecimal(n){
+function preserveDecimal(n){
 return parseFloat (n);
 }
 preseveDecimal('2.222');
