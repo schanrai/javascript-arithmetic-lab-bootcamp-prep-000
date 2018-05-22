@@ -16,11 +16,12 @@ function multiply(a,b){
 function divide(a,b){
   return a/b;
 }
-var n=557
+
 function inc(n){
   return n++;
 }
 inc(n);
+console.log
 
     n=7
         function dec(n){
