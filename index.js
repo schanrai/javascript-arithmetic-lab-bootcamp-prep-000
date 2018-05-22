@@ -18,15 +18,10 @@ function divide(a,b){
 }
 
 function inc(n){
-  return n++;
+  n++;
+  return n;
 }
 inc(n);
-console.log
 
-    n=7
-        function dec(n){
-         n--
-         return n
-         }
 
-         dec(n);
+   
