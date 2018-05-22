@@ -22,5 +22,8 @@ function inc(n){
 }
 inc(n);
 
-
+function dec(n){
+  return n +=1;
+}
+dec(n);
    
